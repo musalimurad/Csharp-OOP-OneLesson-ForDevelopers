@@ -12,7 +12,7 @@ namespace OOP1
         public static void Add(Product product)
         {
             Console.WriteLine($"{product.ProductName} adli mehsul elave olundu!");
-        }
+        }//CRUD
 
         public static void Update(Product product)
         {
